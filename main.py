@@ -26,7 +26,7 @@ while 1:
     
     if w is not None:
         if w==1:
-            print('conputer won')
+            print('computer won')
         elif w==-1:
         
             print('player won')
